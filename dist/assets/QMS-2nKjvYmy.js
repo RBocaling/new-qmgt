@@ -1,0 +1,11 @@
+import{c as s,j as e}from"./index-BPKYvsHV.js";/**
+ * @license lucide-react v0.412.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const t=s("GitCompare",[["circle",{cx:"18",cy:"18",r:"3",key:"1xkwt0"}],["circle",{cx:"6",cy:"6",r:"3",key:"1lh9wr"}],["path",{d:"M13 6h3a2 2 0 0 1 2 2v7",key:"1yeb86"}],["path",{d:"M11 18H8a2 2 0 0 1-2-2V9",key:"19pyzm"}]]);/**
+ * @license lucide-react v0.412.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const a=s("RefreshCcw",[["path",{d:"M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8",key:"14sxne"}],["path",{d:"M3 3v5h5",key:"1xhq8a"}],["path",{d:"M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16",key:"1hlbsb"}],["path",{d:"M16 16h5v5",key:"ccwih5"}]]),r=()=>e.jsxs("div",{className:"px-4 md:px-24 pt-4 h-full",children:[e.jsx("div",{className:"border border-primary border-b-0 p-3 min-h-[100vh] flex justify-center",children:e.jsxs("div",{className:"w-[500px] mt-36",children:[e.jsxs("div",{className:"flex justify-between text-white items-center",children:[e.jsx("div",{children:"Transfer to QMS"}),e.jsxs("div",{className:"flex gap-2",children:[e.jsxs("button",{className:"text-[14px] flex gap-2 bg-black p-1 px-2 rounded-full items-center ",children:[e.jsx(t,{className:"w-[14px] text-primary"})," 0.5%"]}),e.jsx("button",{className:"text-[14px] bg-black p-1 px-2 rounded-full",children:e.jsx(a,{className:"w-[14px] text-primary"})})]})]}),e.jsxs("div",{className:"mt-4",children:[e.jsx("div",{className:"w-full bg-accent rounded-md px-4 py-4 text-white flex items-center",children:e.jsxs("div",{className:"w-full",children:[e.jsx("div",{className:"flex gap-4 items-end",children:e.jsx("input",{type:"text",value:100,className:"w-full bg-transparent border-0 border-b outline-none text-3xl"})}),e.jsx("div",{className:"mt-2 text-secondary text-xs",children:"Wallet Balance: $99.29"})]})}),e.jsx("div",{children:e.jsx("button",{className:"w-full h-[50px] bg-primary rounded mt-4 hover:bg-secondary",onClick:()=>{},children:"Transfer"})})]})]})}),e.jsx("div",{className:"hollow-text z-100 touch-none",children:"QMS"})]});export{r as default};
